@@ -14,7 +14,7 @@ var config = {
         vendors: [
             "babel-polyfill", "es5-sham", "es5-shim", "es6-promise", "fetch",
             "jquery",
-            "react", "react-dom",]
+            "react", "react-dom","fetch"]
     },
     output: {
         filename: '[name].js',
